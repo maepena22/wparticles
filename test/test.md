@@ -4,17 +4,9 @@ title: The Art of Urban Gardening
 menu_order: 1
 post_status: publish
 post_excerpt: Discover how to create a thriving garden in small urban spaces and transform your city living experience.
+post_date: 2024-07-17 20:14:59
+comment_status: closed
 featured_image: _images/urban-garden.jpg
-taxonomy:
-    category:
-        - gardening
-        - urban-living
-    post_tag:
-        - small-space-gardening
-        - sustainable-living
-custom_fields:
-    difficulty_level: Beginner
-    estimated_time: 15 minutes
 
 ---
 
@@ -23,8 +15,6 @@ custom_fields:
 Urban gardening is rapidly gaining popularity as city dwellers seek to reconnect with nature and grow their own food. This guide will help you start your own urban garden, no matter how limited your space may be
 
 ### Getting Started with Container Gardening
-
-![Various plants in containers on a balcony](/_images/container-garden.jpg "A thriving container garden on an urban balcony")
 
 Container gardening is perfect for small spaces like balconies or windowsills. Here are some tips to get started:
 
