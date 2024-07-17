@@ -20,7 +20,7 @@ custom_fields:
 
 ## Urban Gardening: Bringing Nature to the Concrete Jungle
 
-Urban gardening is rapidly gaining popularity as city dwellers seek to reconnect with nature and grow their own food. This guide will help you start your own urban garden, no matter how limited your space may be.
+Urban gardening is rapidly gaining popularity as city dwellers seek to reconnect with nature and grow their own food. This guide will help you start your own urban garden, no matter how limited your space may be
 
 ### Getting Started with Container Gardening
 
