@@ -2,7 +2,7 @@
 title: Getting started
 menu_order: 1
 taxonomy:
-    doc_category: wordpress-plugins
+    doc_category: Uncategorized
 ---
 
 Using "Git it write" WordPress plugin, you can publish markdown present in a GitHub repository.

@@ -2,7 +2,7 @@
 title: FAQ
 menu_order: 4
 taxonomy:
-    doc_category: wordpress-plugins
+    doc_category: Uncategorized
 ---
 
 ### What is this plugin for ?
