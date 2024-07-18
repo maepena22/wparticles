@@ -1,8 +1,7 @@
 ---
 title: Shortcodes
 menu_order: 3
-taxonomy:
-    doc_category: Uncategorized
+
 ---
 
 ## Edit link shortcode

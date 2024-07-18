@@ -1,8 +1,7 @@
 ---
 title: Writing posts
 menu_order: 2
-taxonomy:
-    doc_category: Uncategorized
+
 ---
 
 With Git it write plugin you can write your WordPress posts in markdown format at the comfort of your favorite IDE.
