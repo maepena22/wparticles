@@ -1,12 +1,14 @@
 ---
 title: How to Use DJI Osmo Pocket 3
-post_status: draft
+post_status: Draft
 post_excerpt: A comprehensive guide on how to use the DJI Osmo Pocket 3 to capture stunning videos and photos.
+featured_image: _images/dji-osmo-pocket-3.jpg
 taxonomy:
     post_tag:
         - DJI Osmo Pocket 3
         - Camera
-
+custom_fields:
+    difficulty_level: Beginner
 ---
 
 ## Introduction
