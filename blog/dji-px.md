@@ -1,11 +1,8 @@
 ---
-
-title: How to Use DJI Phantom X
+title: How to Use DJI Phantom X 2
 post_status: Draft
 post_excerpt: A comprehensive guide on how to use the DJI Phantom X drone.
 taxonomy:
-    category:
-        - Uncategorized
     post_tag:
         - DJI
         - Phantom X
