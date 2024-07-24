@@ -1,6 +1,7 @@
 ---
 
 title: How to Use DJI Osmo Pocket 3
+post_status: publish
 
 ---
 
