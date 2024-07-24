@@ -1,6 +1,6 @@
 ---
 
-title: How to Use DJI Osmo Pocket 3 copy 8
+title: How to Use DJI Osmo Pocket 3
 
 ---
 
