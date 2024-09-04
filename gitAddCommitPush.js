@@ -30,7 +30,7 @@ function gitAddCommitPush(repoPath, commitMessage, callback) {
             console.log('Changes committed.');
 
             // Push the changes
-            exec(`cd "${repoAbsolutePath}" && git push`, (err, stdout, stderr) => {
+            exec(`cd "${repoAbsolutePath}" && git push --force`, (err, stdout, stderr) => {
                 if (err) {
                     console.error('Error pushing changes:', stderr);
                     if (callback) callback(err);
