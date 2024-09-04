@@ -11,8 +11,9 @@ const path = require('path');
 function gitAddCommitPush(repoPath, commitMessage, callback) {
     const repoAbsolutePath = path.resolve(repoPath);
 
-    // Add all changes to the staging area
-    exec(`cd "${repoAbsolutePath}" && git add .`, (err, stdout, stderr) => {
+
+
+    exec(`cd "${repoAbsolutePath}" git pull --ff && git add .`, (err, stdout, stderr) => {
         if (err) {
             console.error('Error adding files to git:', stderr);
             if (callback) callback(err);
